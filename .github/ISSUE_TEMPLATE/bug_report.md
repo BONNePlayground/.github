@@ -1,38 +1,46 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug or a problem you're encountering.
 title: ''
-labels: ''
+labels: 'Type: Bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Description
+#### Describe the bug
+<!-- A clear and concise description of the problem you're encountering. -->
+<!-- /!\ Leaving this section blank will result in your ticket being closed without further explanation. -->
+<!-- Please type below this line. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+#### Steps to reproduce the behavior
+<!-- Step-by-step instructions for us to reproduce the bug on our side. -->
+<!-- /!\ Leaving this section blank will result in your ticket being closed without further explanation. -->
+<!-- Please type below this line. -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+#### Expected behavior
+<!-- What do you think should happen? -->
+<!-- Please type below this line. -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+#### Screenshots and videos (Optional)
+<!-- Videos and screenshots are helpful as they can provide better information about your problem. -->
+<!-- Please type below this line. -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Environment
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+##### BentoBox Version (Mandatory)
+<!-- /!\ Leaving this section blank will result in your ticket being closed without further explanation. -->
+<!-- Paste the output of `/bentobox version` in the code block below (replace the underscores). Do not provide an image. -->
+```
+_______
+```
 
-**Additional context**
-Add any other context about the problem here.
+#### Plugins (Optional)
+<!-- Please paste the `/plugins` output inside the code block below (remove the underscores). Do not provide an image. -->
+```
+_______
+```
+ 
+### Additional context (Optional)
+<!-- Any additional information you'd like to provide us. -->
+<!-- Please type below this line. -->
