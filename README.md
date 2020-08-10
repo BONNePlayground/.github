@@ -1,6 +1,6 @@
 # ${TEMPLATE} Addon
 [![Discord](https://img.shields.io/discord/272499714048524288.svg?logo=discord)](https://discord.bentobox.world)
-[![Build Status](https://ci.codemc.oi/buildStatus/icon?job=BONNePlayground/${TEMPLATE})](https://ci.codemc.oi/job/BONNePlayground/job/${TEMPLATE}/)
+[![Build Status](https://ci.codemc.io/buildStatus/icon?job=BONNePlayground/${TEMPLATE})](https://ci.codemc.io/job/BONNePlayground/job/${TEMPLATE}/)
 
 This is ${TEMPLATE} Addon for BentoBox plugin.  
 
